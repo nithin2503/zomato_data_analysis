@@ -48,3 +48,13 @@ Data Cleaning: Converts rating values into numerical format.
 
 4) Identifies the restaurant with the highest votes.
 
+**Results :**
+
+![Image](https://github.com/user-attachments/assets/ff01cb27-c555-4c53-8cbe-d84bba4164db)
+
+![Image](https://github.com/user-attachments/assets/9af90563-6d58-4c3a-bdd3-3bc14ebc111c)
+
+![Image](https://github.com/user-attachments/assets/52090f70-d340-412b-acaf-dfbb1fbfdb41)
+
+![Image](https://github.com/user-attachments/assets/b9650121-e8e3-443e-9eea-8f8635dcc080)
+
