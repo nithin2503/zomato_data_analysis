@@ -1,8 +1,8 @@
-**Zomato Data Analysis**
+# **Zomato Data Analysis**
 
   This project performs an exploratory data analysis (EDA) on Zomato restaurant data. It includes data preprocessing, visualization, and insights extraction using Python.
 
-**Dataset**
+## **Dataset**
 
   The dataset contains information about restaurants, including ratings, votes, online order availability, restaurant types, and approximate costs for two people.
 
@@ -20,13 +20,13 @@ listed_in(type): Type of restaurant
 
 approx_cost(for two people): Estimated cost for two people
 
-**Code Overview:**
+## **Code Overview:**
 
 Data Loading: Reads the dataset using Pandas.
 
 Data Cleaning: Converts rating values into numerical format.
 
-**Visualizations:**
+## **Visualizations:**
 
 1) Count plots for listed_in(type) and online_order
 
@@ -38,7 +38,7 @@ Data Cleaning: Converts rating values into numerical format.
 
 5) Line plot showing total votes per restaurant type
 
-**Insights:**
+## **Insights:**
 
 1) Do a greater number of restaurants provide online delivery as opposed to offline services?
 
@@ -48,7 +48,7 @@ Data Cleaning: Converts rating values into numerical format.
 
 4) Identifies the restaurant with the highest votes.
 
-**Results :**
+## **Results :**
 
 ![Image](https://github.com/user-attachments/assets/ff01cb27-c555-4c53-8cbe-d84bba4164db)
 
