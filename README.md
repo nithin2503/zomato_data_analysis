@@ -1,10 +1,10 @@
 **Zomato Data Analysis**
 
-This project performs an exploratory data analysis (EDA) on Zomato restaurant data. It includes data preprocessing, visualization, and insights extraction using Python.
+  This project performs an exploratory data analysis (EDA) on Zomato restaurant data. It includes data preprocessing, visualization, and insights extraction using Python.
 
 **Dataset**
 
-The dataset contains information about restaurants, including ratings, votes, online order availability, restaurant types, and approximate costs for two people.
+  The dataset contains information about restaurants, including ratings, votes, online order availability, restaurant types, and approximate costs for two people.
 
 **Columns in the dataset:**
 
@@ -28,23 +28,23 @@ Data Cleaning: Converts rating values into numerical format.
 
 **Visualizations:**
 
-Count plots for listed_in(type) and online_order
+1) Count plots for listed_in(type) and online_order
 
-Histogram of restaurant ratings
+2) Histogram of restaurant ratings
 
-Boxplot of ratings vs. online order availability
+3) Boxplot of ratings vs. online order availability
 
-Heatmap of restaurant type vs. online orders
+4) Heatmap of restaurant type vs. online orders
 
-Line plot showing total votes per restaurant type
+5) Line plot showing total votes per restaurant type
 
 **Insights:**
 
-Do a greater number of restaurants provide online delivery as opposed to offline services?
+1) Do a greater number of restaurants provide online delivery as opposed to offline services?
 
-Which types of restaurants are the most favored by the general public?
+2) Which types of restaurants are the most favored by the general public?
 
-What price range is preferred by couples for their dinner at restaurants?
+3) What price range is preferred by couples for their dinner at restaurants?
 
-Identifies the restaurant with the highest votes.
+4) Identifies the restaurant with the highest votes.
 
